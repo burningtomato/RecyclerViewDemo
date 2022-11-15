@@ -1,5 +1,5 @@
 # RecyclerViewDemo
-就是一个很贱单的Adapter，配合DataBinding使用。
+就是一个很简单的Adapter，配合DataBinding使用。
 
 目的
   现在开发的时候，很喜欢使用DataBinding
